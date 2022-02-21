@@ -1,5 +1,5 @@
 ---
-title: Nelson Bighetti
+title: Nelson Bi
 role: Professor of Artificial Intelligence
 bio: My research
 interests:
